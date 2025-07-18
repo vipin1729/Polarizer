@@ -12,9 +12,7 @@ Visualize how light intensity evolves as it passes through multiple polarizers.
 📦 Built with Python + Streamlit  
 📊 Perfect for students, educators, and enthusiasts of quantum optics
 
-🔗 Try it live: https://your-username-polarizer-app.streamlit.app  
-*(Replace with your actual link)*
-
+🔗 Try it live: https://polarizer.streamlit.app/  
 ---
 
 > “Turning equations into intuition — one photon at a time.”
